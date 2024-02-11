@@ -1,0 +1,60 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "New Articles"
+    url: /year-archive/
+  - title: "Terms &amp; Privacy Policy"
+    url: /terms/
+  - title: "Store"
+    url: https://store.fi.io.vn
+    children:
+      - title: "Racing"
+        url: https://store.fi.io.vn/car-racing-dirt-track-racing-race-quote-its-raceday-yall-21
+      - title: "Funny"
+        url: https://store.fi.io.vn/electric-jellyfish-cannabis-strain-funny-weed-420-design
+      - title: "Lover"
+        url: https://store.fi.io.vn/im-not-yelling-funny-race-car-driver-lover-graphic-1
+        
+# sidebar navigation list sample
+sidebar-sample:
+  - title: "Parent Page A"
+    children:
+      - title: "Child Page A1"
+        url: /
+      - title: "Child Page A2"
+        url: /
+      - title: "Child Page A3"
+        url: /
+      - title: "Child Page A4"
+        url: /
+  - title: "Parent Page B"
+    children:
+      - title: "Child Page B1"
+        url: /
+      - title: "Child Page B2"
+        url: /
+      - title: "Child Page B3"
+        url: /
+      - title: "Child Page B4"
+        url: /
+      - title: "Child Page B5"
+        url: /
+  - title: "Parent Page C"
+    children:
+      - title: "Child Page C1"
+        url: /
+      - title: "Child Page C2"
+        url: /
+      - title: "Child Page C3"
+        url: /
+      - title: "Child Page C4"
+        url: /
+      - title: "Child Page C5"
+        url: /
+  - title: "Parent Page D"
+    children:
+      - title: "Child Page D1"
+        url: /
+      - title: "Child Page D2"
+        url: /
