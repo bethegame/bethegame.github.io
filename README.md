@@ -1,1 +1,1 @@
-# bethegame.github.io
+# [bethegame.github.io](https://bethegame.github.io)
